@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EE1A55AD25DA5A010073A1E8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EEE9FEBF25DA55CA000FDBD8 /* Connect Git.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Connect Git.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEE9FEC225DA55CA000FDBD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEE9FEC425DA55CA000FDBD8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,6 +86,7 @@
 				EEE9FEDB25DA55D0000FDBD8 /* Connect GitTests */,
 				EEE9FEE625DA55D0000FDBD8 /* Connect GitUITests */,
 				EEE9FEC025DA55CA000FDBD8 /* Products */,
+				EE1A55AD25DA5A010073A1E8 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
